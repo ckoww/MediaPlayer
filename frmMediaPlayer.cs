@@ -28,7 +28,7 @@ namespace MediaPlayer
             }
         }
 
-        private void btnPlay_Click(object sender, EventArgs e)
+        private void btnPlay_Click(object sender, EventArgs e) 
         {
             if (wmpVideo.playState == WMPLib.WMPPlayState.wmppsUndefined)
             {
