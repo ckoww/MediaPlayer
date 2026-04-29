@@ -10,6 +10,7 @@
 播放已載入的影片
 為避免錯誤操作，加入播放前檢查(如下)
 <img width="133" height="133" alt="image" src="https://github.com/user-attachments/assets/b9b3c60d-e8ad-4c2a-91f7-397459d4dfcd" />
+
 3. 暫停（Pause）
 暫停目前播放畫面
 4. 停止（Stop）
